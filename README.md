@@ -1,5 +1,8 @@
 # moz-todo-vue
 
+Simple to-do app using Vue js for practice.
+This app contains basic props management, data management, events and methods, css styling and computed properties in Vue
+
 ## Project setup
 ```
 npm install
